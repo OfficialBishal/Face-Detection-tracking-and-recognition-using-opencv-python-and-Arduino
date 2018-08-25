@@ -16,7 +16,7 @@ I have tried to make things as simple as possibile so if any problem do contact.
 
 ||| Watch photos folder for more understanding. |||
 
->> For beginners know what these are: OpenCV, Python, Haar Cascade, Arduino, Servo Motors, Greyscale...
+>> For beginners know what these are: OpenCV, Python, Haar Cascade, Arduino, Servo Motors, Greyscale, numpy...
 
 
 References:
