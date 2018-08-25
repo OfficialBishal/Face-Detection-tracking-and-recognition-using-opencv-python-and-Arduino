@@ -19,7 +19,7 @@ I have tried to make things as simple as possibile so if any problem do contact.
 >> For beginners know what these are: OpenCV, Python, Haar Cascade, Arduino, Servo Motors, Greyscale...
 
 
->> References ???
+References:
 
 For installation: https://www.codingforentrepreneurs.com/blog/install-opencv-3-for-python-on-mac/
                   https://www.codingforentrepreneurs.com/blog/install-opencv-3-for-python-on-windows/
