@@ -15,3 +15,8 @@ Dont forget to put the serial port according to your environment you are working
 I have tried to make things as simple as possibile so if any problem do contact.
 
 Watch photos folder for more info.
+
+References ???
+For installation: https://www.codingforentrepreneurs.com/blog/install-opencv-3-for-python-on-mac/
+                  https://www.codingforentrepreneurs.com/blog/install-opencv-3-for-python-on-windows/
+
