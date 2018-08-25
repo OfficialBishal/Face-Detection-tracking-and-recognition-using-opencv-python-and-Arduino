@@ -21,3 +21,6 @@ References ???
 For installation: https://www.codingforentrepreneurs.com/blog/install-opencv-3-for-python-on-mac/
                   https://www.codingforentrepreneurs.com/blog/install-opencv-3-for-python-on-windows/
 
+For beginners: 
+
+Know what these are: OpenCV, Python, Haar Cascade, Arduino, Servo Motors, Greyscale...
