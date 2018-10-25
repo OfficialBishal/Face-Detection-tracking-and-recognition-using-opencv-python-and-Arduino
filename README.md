@@ -21,7 +21,7 @@ I have tried to make things as simple as possibile so if any problem do contact.
 
 References:
 
-For installation: https://www.codingforentrepreneurs.com/blog/install-opencv-3-for-python-on-mac/
+For environment installation: https://www.codingforentrepreneurs.com/blog/install-opencv-3-for-python-on-mac/
                   https://www.codingforentrepreneurs.com/blog/install-opencv-3-for-python-on-windows/
 
 
