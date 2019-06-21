@@ -42,7 +42,7 @@ def angle_servox(angle):
         ser.write(b'0')
         print("Stop")
 
-# This will send data to the arduino according to the x coordinate
+# This will send data to the arduino according to the y coordinate
 def angle_servoy(angle):
 
     if angle>250:
