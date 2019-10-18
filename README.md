@@ -16,7 +16,7 @@ I have tried to make things as simple as possibile so if any problem do contact.
 
 ||| Watch demo folder for more understanding. |||
 
-||| Upload peoples photo to recognize inside "images" folder. |||
+||| Upload peoples photo to recognize inside "images/person_name/" folder. |||
 >> For beginners know what these are: OpenCV, Python, Haar Cascade, Arduino, Servo Motors, Greyscale, numpy...
 
 
