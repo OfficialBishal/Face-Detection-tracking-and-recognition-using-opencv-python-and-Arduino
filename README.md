@@ -14,8 +14,9 @@ Dont forget to put the serial port according to your environment you are working
 
 I have tried to make things as simple as possibile so if any problem do contact.
 
-||| Watch photos folder for more understanding. |||
+||| Watch demo folder for more understanding. |||
 
+||| Upload peoples photo to recognize inside "images" folder. |||
 >> For beginners know what these are: OpenCV, Python, Haar Cascade, Arduino, Servo Motors, Greyscale, numpy...
 
 
@@ -23,5 +24,3 @@ References:
 
 For environment installation: https://www.codingforentrepreneurs.com/blog/install-opencv-3-for-python-on-mac/
                   https://www.codingforentrepreneurs.com/blog/install-opencv-3-for-python-on-windows/
-
-
