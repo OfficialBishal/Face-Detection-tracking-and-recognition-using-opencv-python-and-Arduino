@@ -6,7 +6,7 @@ This has three main features
 3. Face Recognition
 
 First of all to setup the environment, I have used Pyhton 3.7 and OpenCV to implement Haar Casscade.
-I have kept comments inside the codes so it wil be easy to follow up.
+I have kept comments inside the codes so it wil be easy to follow up; this is basic project that I did with the help of internet.
 
 to install numpy just use command "pip install numpy". just replace numpy with whatever you require.
 
